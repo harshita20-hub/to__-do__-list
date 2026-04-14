@@ -1,0 +1,13 @@
+# To-Do List App (Python)
+
+This is a simple command-line To-Do List application.
+
+## Features
+- Add tasks
+- View tasks
+- Delete tasks
+
+## How to run
+1. Install Python
+2. Run the file:
+   python todo.py
